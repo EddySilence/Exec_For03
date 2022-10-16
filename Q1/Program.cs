@@ -17,6 +17,7 @@ namespace Q1
             for (int i = 1; i <= length; i++)
             {
                 Console.WriteLine(new String(' ', length - i) + new String('*', i));
+                //嘗試
             }
 
         }
